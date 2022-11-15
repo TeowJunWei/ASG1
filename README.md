@@ -1,2 +1,4 @@
 # ASG1
-<p>hello!!!</p>
+I am creating a clothing store website.
+It is going to have female and male clothings.
+- [] hi
