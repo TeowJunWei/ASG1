@@ -1,7 +1,4 @@
-# ASG1
-- I am creating a clothing store website.
-- It is going to have female and male clothings.
+# JW CLOTHES
 
-# The purpose of this app
-To have an online clothing store that caters to both
-female and male.
+- I am creating a clothing store website. It is going to have female and male clothings.
+  The purpose of this online store is to create my own clothing brand to sell the merchandise that I can create on my own.
